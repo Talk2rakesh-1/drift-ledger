@@ -9,3 +9,5 @@
 - UI/browser/container tests: not applicable; the deliverable is a local CLI, not a service or graphical application.
 
 The synthetic fixtures deliberately encode a large shift. Success here does not establish real-world detection accuracy, calibration, or false-positive rates. No operational data, device integration, throughput benchmark, or high-stakes deployment validation was performed.
+
+GitHub CI passed on Python 3.10 and 3.13 for commit `53fabeb`: [run 40559493651](https://github.com/Talk2rakesh-1/drift-ledger/actions/runs/40559493651). This includes installed-package smoke tests and advisory scans. [Full-history secret scan](https://github.com/Talk2rakesh-1/drift-ledger/actions/runs/40559493700) also passed.
