@@ -1,0 +1,402 @@
+[
+  {
+    "latency_ms": 178.111,
+    "payload_kb": 53.647
+  },
+  {
+    "latency_ms": 175.6,
+    "payload_kb": 47.371
+  },
+  {
+    "latency_ms": 190.551,
+    "payload_kb": 50.237
+  },
+  {
+    "latency_ms": 180.391,
+    "payload_kb": 58.375
+  },
+  {
+    "latency_ms": 194.417,
+    "payload_kb": 47.853
+  },
+  {
+    "latency_ms": 200.802,
+    "payload_kb": 46.953
+  },
+  {
+    "latency_ms": 184.953,
+    "payload_kb": 49.937
+  },
+  {
+    "latency_ms": 175.893,
+    "payload_kb": 54.678
+  },
+  {
+    "latency_ms": 187.531,
+    "payload_kb": 50.768
+  },
+  {
+    "latency_ms": 192.278,
+    "payload_kb": 47.258
+  },
+  {
+    "latency_ms": 189.647,
+    "payload_kb": 41.466
+  },
+  {
+    "latency_ms": 180.854,
+    "payload_kb": 49.448
+  },
+  {
+    "latency_ms": 195.715,
+    "payload_kb": 48.482
+  },
+  {
+    "latency_ms": 155.832,
+    "payload_kb": 49.811
+  },
+  {
+    "latency_ms": 194.911,
+    "payload_kb": 50.454
+  },
+  {
+    "latency_ms": 195.241,
+    "payload_kb": 49.618
+  },
+  {
+    "latency_ms": 187.897,
+    "payload_kb": 43.395
+  },
+  {
+    "latency_ms": 198.335,
+    "payload_kb": 46.342
+  },
+  {
+    "latency_ms": 194.923,
+    "payload_kb": 50.551
+  },
+  {
+    "latency_ms": 180.231,
+    "payload_kb": 51.09
+  },
+  {
+    "latency_ms": 182.724,
+    "payload_kb": 50.027
+  },
+  {
+    "latency_ms": 167.949,
+    "payload_kb": 52.615
+  },
+  {
+    "latency_ms": 167.435,
+    "payload_kb": 43.99
+  },
+  {
+    "latency_ms": 181.06,
+    "payload_kb": 59.099
+  },
+  {
+    "latency_ms": 183.477,
+    "payload_kb": 51.356
+  },
+  {
+    "latency_ms": 164.594,
+    "payload_kb": 44.082
+  },
+  {
+    "latency_ms": 168.104,
+    "payload_kb": 49.699
+  },
+  {
+    "latency_ms": 187.362,
+    "payload_kb": 56.898
+  },
+  {
+    "latency_ms": 162.362,
+    "payload_kb": 49.517
+  },
+  {
+    "latency_ms": 185.73,
+    "payload_kb": 57.691
+  },
+  {
+    "latency_ms": 173.091,
+    "payload_kb": 57.05
+  },
+  {
+    "latency_ms": 178.143,
+    "payload_kb": 50.701
+  },
+  {
+    "latency_ms": 171.932,
+    "payload_kb": 46.004
+  },
+  {
+    "latency_ms": 169.959,
+    "payload_kb": 52.035
+  },
+  {
+    "latency_ms": 158.652,
+    "payload_kb": 49.869
+  },
+  {
+    "latency_ms": 195.718,
+    "payload_kb": 41.329
+  },
+  {
+    "latency_ms": 162.937,
+    "payload_kb": 53.948
+  },
+  {
+    "latency_ms": 168.484,
+    "payload_kb": 51.721
+  },
+  {
+    "latency_ms": 175.429,
+    "payload_kb": 50.066
+  },
+  {
+    "latency_ms": 167.771,
+    "payload_kb": 55.535
+  },
+  {
+    "latency_ms": 174.875,
+    "payload_kb": 47.329
+  },
+  {
+    "latency_ms": 192.481,
+    "payload_kb": 53.363
+  },
+  {
+    "latency_ms": 186.522,
+    "payload_kb": 53.199
+  },
+  {
+    "latency_ms": 152.21,
+    "payload_kb": 48.927
+  },
+  {
+    "latency_ms": 173.473,
+    "payload_kb": 45.799
+  },
+  {
+    "latency_ms": 192.852,
+    "payload_kb": 52.916
+  },
+  {
+    "latency_ms": 187.604,
+    "payload_kb": 49.072
+  },
+  {
+    "latency_ms": 187.656,
+    "payload_kb": 46.871
+  },
+  {
+    "latency_ms": 180.898,
+    "payload_kb": 48.32
+  },
+  {
+    "latency_ms": 184.62,
+    "payload_kb": 44.535
+  },
+  {
+    "latency_ms": 177.357,
+    "payload_kb": 48.614
+  },
+  {
+    "latency_ms": 181.991,
+    "payload_kb": 51.656
+  },
+  {
+    "latency_ms": 181.1,
+    "payload_kb": 56.697
+  },
+  {
+    "latency_ms": 194.458,
+    "payload_kb": 50.144
+  },
+  {
+    "latency_ms": 182.911,
+    "payload_kb": 52.313
+  },
+  {
+    "latency_ms": 169.273,
+    "payload_kb": 49.093
+  },
+  {
+    "latency_ms": 184.195,
+    "payload_kb": 54.377
+  },
+  {
+    "latency_ms": 170.895,
+    "payload_kb": 57.298
+  },
+  {
+    "latency_ms": 185.464,
+    "payload_kb": 46.351
+  },
+  {
+    "latency_ms": 179.311,
+    "payload_kb": 50.619
+  },
+  {
+    "latency_ms": 177.063,
+    "payload_kb": 48.022
+  },
+  {
+    "latency_ms": 185.562,
+    "payload_kb": 64.628
+  },
+  {
+    "latency_ms": 189.006,
+    "payload_kb": 56.738
+  },
+  {
+    "latency_ms": 188.652,
+    "payload_kb": 54.566
+  },
+  {
+    "latency_ms": 174.39,
+    "payload_kb": 55.453
+  },
+  {
+    "latency_ms": 193.062,
+    "payload_kb": 41.601
+  },
+  {
+    "latency_ms": 182.386,
+    "payload_kb": 49.002
+  },
+  {
+    "latency_ms": 176.157,
+    "payload_kb": 53.971
+  },
+  {
+    "latency_ms": 181.495,
+    "payload_kb": 56.132
+  },
+  {
+    "latency_ms": 204.795,
+    "payload_kb": 48.084
+  },
+  {
+    "latency_ms": 161.905,
+    "payload_kb": 52.259
+  },
+  {
+    "latency_ms": 177.575,
+    "payload_kb": 44.983
+  },
+  {
+    "latency_ms": 164.61,
+    "payload_kb": 53.166
+  },
+  {
+    "latency_ms": 183.644,
+    "payload_kb": 46.314
+  },
+  {
+    "latency_ms": 191.159,
+    "payload_kb": 53.414
+  },
+  {
+    "latency_ms": 177.849,
+    "payload_kb": 50.108
+  },
+  {
+    "latency_ms": 185.846,
+    "payload_kb": 54.075
+  },
+  {
+    "latency_ms": 183.0,
+    "payload_kb": 56.879
+  },
+  {
+    "latency_ms": 175.277,
+    "payload_kb": 50.52
+  },
+  {
+    "latency_ms": 174.933,
+    "payload_kb": 55.725
+  },
+  {
+    "latency_ms": 185.746,
+    "payload_kb": 52.582
+  },
+  {
+    "latency_ms": 183.325,
+    "payload_kb": 44.219
+  },
+  {
+    "latency_ms": 166.309,
+    "payload_kb": 55.176
+  },
+  {
+    "latency_ms": 209.31,
+    "payload_kb": 54.606
+  },
+  {
+    "latency_ms": 184.809,
+    "payload_kb": 56.205
+  },
+  {
+    "latency_ms": 178.045,
+    "payload_kb": 45.95
+  },
+  {
+    "latency_ms": 172.388,
+    "payload_kb": 46.247
+  },
+  {
+    "latency_ms": 205.854,
+    "payload_kb": 46.132
+  },
+  {
+    "latency_ms": 189.104,
+    "payload_kb": 53.868
+  },
+  {
+    "latency_ms": 184.638,
+    "payload_kb": 62.417
+  },
+  {
+    "latency_ms": 174.434,
+    "payload_kb": 45.947
+  },
+  {
+    "latency_ms": 184.863,
+    "payload_kb": 45.974
+  },
+  {
+    "latency_ms": 163.809,
+    "payload_kb": 44.481
+  },
+  {
+    "latency_ms": 189.235,
+    "payload_kb": 51.321
+  },
+  {
+    "latency_ms": 188.598,
+    "payload_kb": 49.149
+  },
+  {
+    "latency_ms": 188.965,
+    "payload_kb": 48.082
+  },
+  {
+    "latency_ms": 194.689,
+    "payload_kb": 58.575
+  },
+  {
+    "latency_ms": 176.808,
+    "payload_kb": 46.065
+  },
+  {
+    "latency_ms": 176.498,
+    "payload_kb": 56.847
+  },
+  {
+    "latency_ms": 187.309,
+    "payload_kb": 53.94
+  }
+]
