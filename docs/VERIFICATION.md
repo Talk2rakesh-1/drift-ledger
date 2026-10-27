@@ -4,7 +4,7 @@
 - Coverage: 88% total statement coverage, 100% core module coverage. CLI subprocess execution is tested but not included in parent-process coverage.
 - Ruff lint/format, strict mypy, and Bandit: passed.
 - CLI smoke: unchanged batch returns 0; shifted fixture returns 1 and JSON findings; invalid input returns 2.
-- pip-audit: no known vulnerabilities in runtime or resolved development requirements on Python 3.12.14. The initial Python 3.9 environment selected outdated transitive tools; supported Python versions resolve patched packages. Full-history Gitleaks runs before publication and in CI.
+- pip-audit: no known vulnerabilities in runtime or resolved development requirements on Python 3.12.14. The initial Python 3.9 environment selected outdated transitive tools; Python 3.10 CI also exposed filelock 4.1.0 advisories, so development requirements now constrain Python 3.10 to non-advisory 3.20.3 and newer Python to patched 4.2.1+. Full-history Gitleaks runs before publication and in CI.
 - Manual security/license review completed; zero runtime dependencies, original fixtures, no external model weights or datasets.
 - UI/browser/container tests: not applicable; the deliverable is a local CLI, not a service or graphical application.
 
